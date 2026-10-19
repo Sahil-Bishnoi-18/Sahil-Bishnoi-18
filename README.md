@@ -5,7 +5,7 @@
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2e24,100:22c55e&height=240&section=header&text=Sahil%20Bishnoi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Lead%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Web%20%26%20Mobile%20%E2%80%A2%20Automation%20%E2%9A%A1&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2e24,100:22c55e&height=240&section=header&text=Sahil%20Bishnoi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Web%20and%20Mobile%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 </div>
 
