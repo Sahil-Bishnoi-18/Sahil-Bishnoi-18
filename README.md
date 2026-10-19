@@ -144,10 +144,6 @@ const sahil = {
 <!-- ═══════════════ FLAGSHIP PROJECT ═══════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="32"/> &nbsp;Flagship Project — Prexa Labs
 
-<table>
-<tr>
-<td>
-
 <div align="center">
 
 ### 💬 [Prexa Labs](https://prexalabs.in)
@@ -204,10 +200,6 @@ const sahil = {
 <sub>🔒 The codebase is private — happy to walk through the architecture or give a live demo.</sub>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
