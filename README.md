@@ -23,7 +23,7 @@
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <div align="center">
 
-  <a href="https://github.com/sahilbishnoidev">
+  <a href="https://github.com/Sahil-Bishnoi-18">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Lead+Software+Engineer+%40+Kloud+Quantum;Building+Prexa+Labs+%E2%80%94+WhatsApp+automation+SaaS+%F0%9F%92%AC;Turning+business+requirements+into+live+products+%F0%9F%9A%80;Shopify+%7C+PHP+%7C+Node.js+%7C+Flutter+%7C+n8n;11%2B+live+websites+%E2%80%A2+Apps+on+Play+Store+%26+App+Store;Connecting+systems.+Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 
@@ -34,8 +34,8 @@
 <!-- ═══════════════ BADGES ═══════════════ -->
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=sahilbishnoidev&label=Profile%20views&color=22c55e&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/sahilbishnoidev?label=Followers&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Bishnoi-18&label=Profile%20views&color=22c55e&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Sahil-Bishnoi-18?label=Followers&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Projects%20%26%20Collabs-22c55e?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="open to projects"/>
   <a href="https://www.linkedin.com/in/sahil-bishnoi29/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin"/>
@@ -314,8 +314,8 @@ mindmap
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilbishnoidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github" alt="github stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=sahilbishnoidev&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=f97316&currStreakLabel=22c55e" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-Bishnoi-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&rank_icon=github" alt="github stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Sahil-Bishnoi-18&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=f97316&currStreakLabel=22c55e" alt="streak"/>
 
 </div>
 
@@ -336,8 +336,8 @@ I'd love to hear about it.
 <a href="https://www.linkedin.com/in/sahil-bishnoi29/">
   <img src="https://img.shields.io/badge/LinkedIn-sahil--bishnoi29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/sahilbishnoidev">
-  <img src="https://img.shields.io/badge/GitHub-sahilbishnoidev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Sahil-Bishnoi-18">
+  <img src="https://img.shields.io/badge/GitHub-Sahil--Bishnoi--18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
