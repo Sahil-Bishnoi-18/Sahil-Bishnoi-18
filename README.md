@@ -24,7 +24,7 @@
 <div align="center">
 
   <a href="https://github.com/sahilbishnoidev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Lead+Software+Engineer+%40+Kloud+Quantum;Turning+business+requirements+into+live+products+%F0%9F%9A%80;Shopify+%7C+PHP+%7C+Node.js+%7C+Flutter+%7C+n8n;11%2B+live+websites+%E2%80%A2+Apps+on+Play+Store+%26+App+Store;Connecting+systems.+Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Lead+Software+Engineer+%40+Kloud+Quantum;Building+Prexa+Labs+%E2%80%94+WhatsApp+automation+SaaS+%F0%9F%92%AC;Turning+business+requirements+into+live+products+%F0%9F%9A%80;Shopify+%7C+PHP+%7C+Node.js+%7C+Flutter+%7C+n8n;11%2B+live+websites+%E2%80%A2+Apps+on+Play+Store+%26+App+Store;Connecting+systems.+Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 
 </div>
@@ -133,6 +133,77 @@ const sahil = {
 - Hosting, domains, **DNS & SSL**
 - VPS / server setup and troubleshooting
 - Performance optimisation & ongoing maintenance
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════ FLAGSHIP PROJECT ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="32"/> &nbsp;Flagship Project — Prexa Labs
+
+<table>
+<tr>
+<td>
+
+<div align="center">
+
+### 💬 [Prexa Labs](https://prexalabs.in)
+**WhatsApp, Instagram & Messenger in one smart inbox — automation & commerce for every business**
+
+[![Website](https://img.shields.io/badge/🌐_Website-prexalabs.in-22c55e?style=for-the-badge&labelColor=0d1117)](https://prexalabs.in)
+[![App](https://img.shields.io/badge/🚀_Live_App-app.prexalabs.in-22c55e?style=for-the-badge&labelColor=0d1117)](https://app.prexalabs.in)
+![Closed Source](https://img.shields.io/badge/🔒_Source-Private-6b7280?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+> A **multi-tenant SaaS** I designed and built end to end. It lets e-commerce stores, clinics, travel agencies, real-estate and service businesses run their customer conversations, marketing and order verification on official Meta APIs — from a single dashboard.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✨ What it does**
+- 📥 **2-way team inbox** — WhatsApp, Instagram DMs & Messenger in one place, with assignment & team roles
+- 🤖 **AI chatbots** & a visual automation-flow builder that answer 24×7
+- 🛒 **Shopify & WooCommerce** — COD order verification, anti-RTO buttons & cart recovery
+- 📣 **Broadcast campaigns**, WhatsApp templates, contacts & audience segments
+- 🧩 **Website chat widget** + a WordPress / WooCommerce plugin
+- 📊 Analytics, billing & an admin panel for managing every tenant
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ How it's built**
+- **Frontend:** Next.js 16 · React 19 · Tailwind CSS · Zustand · Clerk auth
+- **Backend:** 100% serverless on **Cloudflare Workers**
+- **Data:** Cloudflare **D1** (SQL) + **KV**
+- **Messaging:** Meta **WhatsApp Cloud API**, Instagram & Messenger
+- **Integrations:** Shopify, WooCommerce, webhooks, multiple AI providers
+- **Multi-tenancy:** isolated credentials & conversation history per business
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare%20D1-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+
+<sub>🔒 The codebase is private — happy to walk through the architecture or give a live demo.</sub>
+
+</div>
 
 </td>
 </tr>
